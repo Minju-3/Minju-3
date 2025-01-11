@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <h2 align="center" style="margin-top: 30px">
     <div align="center">
-    <img src="(https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=MINJU'S%20GITHUB&fontSize=60&animation=twinkling&fontAlign=68&fontAlignY=36)">
+    <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=MINJU'S%20GITHUB&fontSize=60&animation=twinkling&fontAlign=68&fontAlignY=36]">
 </div>
 
 <!--내용 부분-->
