@@ -4,9 +4,6 @@
 
 <!--내용 부분-->
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=9be1f4&height=130&section=header&text=Hello,%20world!&fontSize=48&fontColor=ffffff">
-</div>
 
 <h2 align="center" style="margin-top: 30px"> 📚 Experience </h2>
 
