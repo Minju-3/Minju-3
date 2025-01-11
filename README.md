@@ -13,31 +13,11 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=white">
-</div>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
-    <!--<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">-->
-<!-- </div> -->
-<!-- <div align="center"> -->
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-</div>
-
-<div  align= "center"> 
-    <img src="https://img.shields.io/badge/Node.js-7FC628?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+
 </div>
 
-<div  align= "center"> 
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-    <img src="https://img.shields.io/badge/springboot-6AAD3C?style=for-the-badge&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/Anaconda-%01963a.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-</div>
 
 <h3 align="center" style="margin-top: 20px"> Database </h3>
 
