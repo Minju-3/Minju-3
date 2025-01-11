@@ -10,3 +10,5 @@
 Minju-3/Minju-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![header](https://capscale-render.vercel.app/api?type=waving&color=gradient&customClolorList=10&height=200&text=MINJU's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
