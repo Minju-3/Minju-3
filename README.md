@@ -3,7 +3,6 @@
 
 
 <!--내용 부분-->
-<!--![header](https://capsule-render.vercel.app/api?type=transparent&color=84C5DC&height=70&section=header&text=def%20__init__(self):&fontSize=40&fontColor=84C5DC)-->
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=9be1f4&height=130&section=header&text=Hello,%20world!&fontSize=48&fontColor=ffffff">
