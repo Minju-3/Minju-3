@@ -12,6 +12,16 @@
 
 </div>
 
+<h3 align="center" style="margin-top: 20px"> Database </h3>
+
+<div  align= "center">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+</div>
+
+
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
