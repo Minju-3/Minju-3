@@ -62,8 +62,8 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://marsh-boursin-7b2.notion.site/JANG-MINJOO-251d8b1385424fcca5a3e6b3a8854f5d?pvs=4">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+
   </a>
   <a href="mailto:minjuminjoo1@gmail.com">
     <img
