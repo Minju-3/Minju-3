@@ -70,7 +70,8 @@
 <div align="center">
   <a href="https://marsh-boursin-7b2.notion.site/JANG-MINJOO-251d8b1385424fcca5a3e6b3a8854f5d?pvs=4">
 <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  </a>
+  </a> 
+  
   <a href="mailto:minjuminjoo1@gmail.com">
     <img
       src="https://img.shields.io/badge/minjuminjoo1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
