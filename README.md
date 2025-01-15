@@ -110,11 +110,10 @@
 
 <div align="center">
     <h2>Interests 👀</h2>
-    <p>Backend / Server<p>
+    <p>Front-end <p>
     <p>Machine Learning</p>
     <p>Data Science</p>
-    <p>Financial Engineering</p>
-    <p>Natural Language Processing</p>
+    <p>Data Engineering</p>
 </div>
 
 
